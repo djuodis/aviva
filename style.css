@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    text-align: center;
+}
+
+header img {
+    width: 200px;
+}
+
+h1 {
+    color: white;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+nav {
+    background: gold;
+    padding: 30px;
+    text-align: right;
+    word-spacing: 30px;
+    margin-inline: 50px;
+}
+
+nav a {
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    
+}
+
+h1.black {
+    color: black;
+    padding-top: 30px;
+    
+}
+
+h1.white {
+    margin-left: 50px;
+}
+
+section {
+    text-align: center;
+    padding-inline: 50px
+}
+
+section p {
+    text-align: justify;
+    
+}
+
+button {
+  display: inline-block;
+  padding: 11px 49px;
+  font-size: 16px;
+  text-align: center;
+  color: #fff;
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+ margin-top: 15px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+section.blue {
+    background: darkblue;
+    padding-top: 30px;
+    margin-top: 15px;    
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-inline: 50px
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid red;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+th, td {
+    border: 2px solid red;
+}   
+
+th.pavarde {
+    text-align: right;
+    padding: 10px;
+}
+
+ul {
+    padding-inline: 20px;
+}
+
+li {
+    text-align: left;
+    margin-left: 20px;
+}
+
+section.copyright1 {
+    padding-inline: 0px;
+    
+}
+
+p.copyright {
+    background: gold;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    color: white;
+    padding: 20px;
+}
